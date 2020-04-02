@@ -7,7 +7,7 @@ Install and debug iOS apps from the command line. Designed to work on un-jailbro
 
 ## Requirements
 
-* Mac OS X. Tested on 10.11 El Capitan, 10.12 Sierra, iOS 9.0 and iOS 10.0
+* Mac OS X. Tested on 10.11 El Capitan, 10.12 Sierra, iOS 9.0 ~ 13.3
 * You need to have a valid iOS Development certificate installed.
 * Xcode 7 or greater should be installed (**NOT** just Command Line Tools!)
 
